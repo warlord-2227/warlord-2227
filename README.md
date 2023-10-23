@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @warlord-2227
+- 👋 Hi, I’m Setu Hitesh Dave
 - 👀 I’m interested in Data Structure and Machine learning Algorithms
 - 🌱 I’m currently learning Deep Learning and ML pipelines
 - 💞️ I’m looking to collaborate on Opensource Projects 
