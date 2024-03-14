@@ -1,6 +1,6 @@
 My name is Setu Dave
 
-I am currently working as Freelancer. I have worked as Sr. Data Scientist at Curl Analytics 
+I am currently working as Freelancer/Consultant. I have worked as Sr. Data Scientist at Curl Analytics 
 
 I am currently learning:
 
